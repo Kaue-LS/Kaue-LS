@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo React.JS
 - 📫 Contate-me no email : kaue.ls0506@gmail.com
-- 📫 Contate-me no Linkedin : https://www.linkedin.com/in/kau%C3%AA-leite-8bb83320b/
+
 
  <div>
   <a href="https://github.com/Kaue-LS">
@@ -18,4 +18,13 @@
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
+</div>
+ <div> 
+
+
+  <a href = "kaue.ls0506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%AA-leite-8bb83320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
