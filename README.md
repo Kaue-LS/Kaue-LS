@@ -12,6 +12,9 @@
 </div>
  
  <div style="display: inline_block"><br>
- <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
-   <i class="devicon-css3-plain"></i>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
 </div>
