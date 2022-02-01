@@ -1,7 +1,7 @@
 ### Ola! Meu nome é Kauê
 
 
-- 🌱 Estou aprendendo React.JS
+- 🌱 Estou aprendendo Context API
 - 📫 Contate-me no email : kaue.ls0506@gmail.com
 
 
