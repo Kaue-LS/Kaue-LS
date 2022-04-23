@@ -3,14 +3,14 @@
 
 - 🌱 Estou aprendendo TypeScript
 - 📫 Contate-me no email : kaue.ls0506@gmail.com
-   <a style="width: 50px," href="https://portfolio-rho-eosin-60.vercel.app/" target="_blank"><img style="width: 50px," src="https://raw.githubusercontent.com/Kaue-LS/Portfolio/main/public/favicon.ico" target="_blank"></a>
+
 
  <div>
   <a href="https://github.com/Kaue-LS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-LS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-LS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+    <a style="width: 50px," href="https://portfolio-rho-eosin-60.vercel.app/" target="_blank"><img style="width: 50px," src="https://raw.githubusercontent.com/Kaue-LS/Portfolio/main/public/favicon.ico" target="_blank"></a>
  <div style="display: inline_block"><br>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
