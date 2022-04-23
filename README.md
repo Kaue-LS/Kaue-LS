@@ -1,7 +1,7 @@
 ### Ola! Meu nome é Kauê
 
 
-- 🌱 Estou aprendendo Context API
+- 🌱 Estou aprendendo TypeScript
 - 📫 Contate-me no email : kaue.ls0506@gmail.com
 
 
