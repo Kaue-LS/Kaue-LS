@@ -26,6 +26,6 @@
 
   <a href = "kaue.ls0506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kau%C3%AA-leite-8bb83320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <a href="https://portfolio-rho-eosin-60.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Kaue-LS/Portfolio/main/public/favicon.ico" target="_blank"></a>
  
 </div>
