@@ -2,7 +2,7 @@
 
 
 
-- 📫 Contate-me no email : kaue.ls0506@gmail.com
+- 📫 Contate-me no email : kaue.lsantos.dev@gmail.com
 
 
  <div>
