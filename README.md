@@ -26,4 +26,4 @@ Programador Front-end, sou de São Paulo!
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaue-LS_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaue-ls_icons=true)
