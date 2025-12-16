@@ -16,7 +16,11 @@ Programador Front-end, sou de São Paulo!
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+<img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
  <div> 
 
